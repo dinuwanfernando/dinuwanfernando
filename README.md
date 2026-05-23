@@ -17,7 +17,8 @@ Avagance is an agentic AI platform for UK independent financial advisers and wea
 ### Selected work
 
 - **[Avagance](https://avagance.com)** - agentic AI platform for UK wealth management (private)
-- **[Dimuthu Electronics website](https://github.com/Dimuthu-Electronics/dimuthu-website)** - public Next.js site for a real electronics business, paired with an internal Electron desktop CRM (code private)
+- **[Dimuthu Electronics website](https://github.com/Dimuthu-Electronics/dimuthu-website)** - public Next.js site for a real electronics business
+- **Dimuthu Electronics Manager (desktop CRM)** - internal Electron app paired with the website above. Appointments, inventory, employees, supplier orders, and PDF invoicing on a shared Supabase backend (private)
 - **[Credit Score Prediction](https://github.com/dinuwanfernando/credit-score-prediction-ml)** - final-year research project comparing classifiers for loan approval
 
 ### Tech
